@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Mentis123 - aka Mentis - aka Aether Secret Society on Spaces.
+- 👋 Hi, I’m Mentis.
 - 👀 I use Emerging Tech to teach Emerging Tech through participant-led innovative experiences.
-- 🌱 I’m currently learning every day.
-- 💞️ I’m looking to collaborate on AR/VR/XR/Metaverse/Web3/NFT/3D
+- 🌱 I’m currently learning every day, always building.
+- 💞️ I’m looking to collaborate on the Web3 ABCs: AI, Blockchain, Cyberspace.
 - 📫 How to reach me - on Twitter - https://www.AtmanAcademy.io
 
 <!---
